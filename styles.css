@@ -1,0 +1,43 @@
+.sky {
+    width: 50%;
+    height: 400px;
+    background-color: #5cf;
+    position: relative;
+    top: 60px;
+    left: 25%;
+}
+
+.sky-night {
+    background-color: blue;
+}
+
+.circle {
+    border-radius: 50%;
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 30px;
+    top: 30px;
+}
+
+.circle-night {
+    background-color: white;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 30px;
+    top: 30px;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    font-family: Verdana;
+    cursor: pointer;
+    position: absolute;
+    left: 30%;
+    top: 110%;
+}
